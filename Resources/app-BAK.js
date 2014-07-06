@@ -1,5 +1,3 @@
-
-
 var win1 = Titanium.UI.createWindow(
 {  
     title:'Welcome To NoKunda',
